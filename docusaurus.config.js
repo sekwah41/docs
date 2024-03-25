@@ -564,11 +564,11 @@ const config = {
       { name: 'robots', content: 'index, follow' },
       {
         property: 'og:title',
-        content: 'Jan | Rethink the Computer',
+        content: 'Jan | Customizable Intelligence',
       },
       {
         property: 'og:description',
-        content: `Jan turns your computer into an AI machine by running LLMs locally on your computer. It's a privacy-focus, local-first, open-source solution.`,
+        content: `An open-source ChatGPT alternative that runs on your computer. Run LLMs locally, build and fine-tune AI to meet your needs.`,
       },
       {
         property: 'og:image',
